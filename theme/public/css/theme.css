@@ -10,3 +10,8 @@ body {
 .web-footer {
     display: none !important;
 }
+
+/* Hide Help Button */
+.dropdown-help {
+    display: none !important;
+}
